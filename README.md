@@ -1,5 +1,17 @@
-# World_Clock
+# TimeWarp Navigator
 
-I created this project while learning JavaScript. By this project, I came to know how we can use JavaScript alongside HTML and CSS to give our webpage interactive view without the need of a server as all the script is executed by the Browser on the Client-Side.
+This project, "TimeWarp Navigator," showcases my journey into JavaScript, exploring its integration with HTML and CSS. Through this beginner-level endeavor, I delved into the world of client-side scripting, where the browser executes all scripts, eliminating the need for a server.
 
-It was a very helpful beginner-level project to get an idea about how JavaScript is used along with HTML and CSS. It was an amazing experience.
+**Key Learnings:**
+- JavaScript usage for interactive webpages
+- Seamless integration with HTML and CSS
+- Client-side execution for dynamic user experiences
+
+An enriching experience that provided valuable insights into the fundamentals of web development.
+
+**Tech Stack:**
+- JavaScript
+- HTML
+- CSS
+
+An exciting journey into the realms of client-side scripting and web interactivity.

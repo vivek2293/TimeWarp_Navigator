@@ -1,6 +1,6 @@
 function World_Clock(){
 
-document.getElementById('t1').innerHTML = "Your Current Time and Date: ";
+document.getElementById('t1').innerHTML = "Current Time and Date: ";
 document.getElementById('main1').innerHTML = "Tic-Toc! Tic-Toc! Time is always running ";
 setInterval(() => {
 a = new Date();
